@@ -1,0 +1,12 @@
+"if" IF 60 NULL 23
+"then" THEN 61 NULL 23
+"else" ELSE 62 NULL 23
+"var" VAR 63 NULL 23
+"begin" BEGIN 64 NULL 23
+"end" END 65 NULL 23
+"of" OF 66 NULL 23
+"array" ARRAY 67 NULL 23
+"function" FUNCTION 68 NULL 23
+"while" WHILE 69 NULL 23
+"do" DO 70 NULL 23
+"not" NOT 71 NULL 23
